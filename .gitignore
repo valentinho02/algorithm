@@ -1,0 +1,21 @@
+# macOS and local editor settings
+.DS_Store
+.vscode/
+
+# Compiled programs and build output
+/CPP
+a.out
+*.o
+*.out
+*.exe
+*.dSYM/
+/build/
+/output/
+
+# Unrelated practice journals and empty scratch files
+/*.docx
+/a
+/b
+/c
+/num
+/r
